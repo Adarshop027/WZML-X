@@ -1,18 +1,18 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7885707795:AAEgpS2OQkOF-d_Qv486LAVpRbUIrYY53l4"
+OWNER_ID = 6155015997
+TELEGRAM_API = 27700401
+TELEGRAM_HASH = "8613f522e2ab48b81e0946262b8a6fd2"
+DATABASE_URL = "mongodb+srv://adarshmoharana027:adarshmoharana027@cluster0.jla2l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 TG_PROXY = {}            # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+CMD_SUFFIX = "/"
+AUTHORIZED_CHATS = "6155015997"
+SUDO_USERS = "6155015997"
 STATUS_LIMIT = 10
-DEFAULT_UPLOAD = "rc"
+DEFAULT_UPLOAD = "gd"
 STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
@@ -44,16 +44,16 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "11LdJMHbWaZxiJ2BKJsKES9UzzmBuG1hi"
 GD_DESP = "Uploaded with WZ Bot"
-IS_TEAM_DRIVE = False
-STOP_DUPLICATE = False
-INDEX_URL = ""
+IS_TEAM_DRIVE = True
+STOP_DUPLICATE = True
+INDEX_URL = "https://danish-bhai.adarshmoharana10.workers.dev"
 
 # Rclone
 RCLONE_PATH = ""
@@ -91,7 +91,7 @@ USENET_SERVERS = [
 
 # Update
 UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = False
 
 # Leech
