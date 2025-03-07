@@ -8,7 +8,7 @@ DATABASE_URL = "mongodb+srv://adarshmoharana027:adarshmoharana027@cluster0.jla2l
 # OPTIONAL CONFIG
 TG_PROXY = {}            # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = "/"
+CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "6155015997"
 SUDO_USERS = "6155015997"
 STATUS_LIMIT = 10
