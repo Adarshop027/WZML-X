@@ -49,11 +49,11 @@ SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = "11LdJMHbWaZxiJ2BKJsKES9UzzmBuG1hi"
+GDRIVE_ID = "17YAWRtgBWQ13yXxodwaLisa5WiHxkxj3"
 GD_DESP = "Uploaded with WZ Bot"
 IS_TEAM_DRIVE = True
 STOP_DUPLICATE = True
-INDEX_URL = "https://danish-bhai.adarshmoharana10.workers.dev"
+INDEX_URL = "https://danishbhau.adarshmoharana10.workers.dev"
 
 # Rclone
 RCLONE_PATH = ""
